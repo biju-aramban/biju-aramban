@@ -1,0 +1,9 @@
+
+
+code structure:
+
+domFree
+  |--- core
+  |---|--- common
+  |--- test_core
+  
